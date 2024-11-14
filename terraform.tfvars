@@ -1,5 +1,5 @@
 lambda_function_name   = "lambda_authorizer_funcionarios"
-s3_bucket_name         = "fonte-codigo-lambda-authorizer"
+s3_bucket_name         = "fonte-lambda-authorizer"
 lambda_s3_key          = "lambda_funcionarios.zip"
 lambda_role_name       = "lambda_auth_funcionarios_exec_role"
 s3_backend_bucket_name = "6soat-tfstate"
